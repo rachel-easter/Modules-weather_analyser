@@ -1,4 +1,4 @@
-// app.ts
+
 import { fetchWeatherData } from './weatherApi';
 
 const form = document.getElementById('weatherForm') as HTMLFormElement;
